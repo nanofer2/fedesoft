@@ -1,0 +1,15 @@
+{
+  "name": "ejemplo-node",
+  "version": "0.0.1",
+  "description": "ejemplo de funciones ES6, exports, modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "drodriguezv",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
